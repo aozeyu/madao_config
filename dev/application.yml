@@ -27,7 +27,7 @@ spring:
   # 访问：http://localhost:port/domain/druid/login.html 进行登录访问。
   datasource: # Druid连接池的配置信息
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/madaoo?characterEncoding=utf-8&allowPublicKeyRetrieval=true&useSSL=false
+    url: jdbc:mysql://127.0.0.1:3306/madaoo?characterEncoding=utf-8&allowPublicKeyRetrieval=true&useSSL=false
     type: com.alibaba.druid.pool.DruidDataSource
     username: root
     password: 123456
