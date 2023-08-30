@@ -55,7 +55,7 @@ spring:
     publisher-returns: true
   data:
     redis:
-      host: 82.156.148.211
+      host: 127.0.0.1
       port: 6379
       timeout: 90000
       password: '{cipher}AQBeqMZOvJ5H2pI6qP4CpTdMbC/zH0mMAKJIePUfKhgkTAqbW9iQS2We37ablmlf7nQXaEg7PoOXELaZyZTB64TVOjuuyseAywzHom+InJHbXmCj7PgpwF14+GGJV8K0Ot6wBkl9GgccygjiQwnVPnWAEGn1my14e8zvKW7UyhL1F2agBUBLnMyoVy5p0jhvPmY3USBmWitHk+aevgmwQM+UGdn9qBp1z/3iu4bzFSms7uSrCOo/oR4OROrpLrFgAC6TEmiJ9ZwRCSJv6aTK8iTdK0fnySQZDAejqb4jqkY8BExJj7iWwK7NffxHQUANP2Y1orq3SfAns06tzUQg1XXPPVhgoRMRiZAxnhxOfLcFtkUJmj7G5TfbetYB47rrDQc='
