@@ -47,9 +47,9 @@ spring:
     testOnReturn: false # 返回连接时是否进行有效性验证（即是否还和数据库连通的）
 
   rabbitmq:
-    host: 82.156.205.178
-    username: admin
-    password: admin
+    host: 127.0.0.1
+    username: guest
+    password: guest
     port: 5672
     virtual-host: /
     publisher-returns: true
